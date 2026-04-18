@@ -630,8 +630,7 @@ truffle插件：
 
 ###  其他项目
 
-
-
+- [RustChain](https://rustchain.org/) - AI Agent DeFi 区块链 (DePIN)
 
 ## 行业报告
 
