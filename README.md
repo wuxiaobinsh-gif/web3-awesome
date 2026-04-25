@@ -495,6 +495,8 @@ truffle插件：
 
 [substrate的文档](https://paritytech.github.io/ink-docs/)
 
+[RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity区块链，老旧硬件挖矿收益更高，AI Agent经济
+
 #### parity全家桶
 
 [parity-ethereum](https://github.com/paritytech/parity-ethereum)
